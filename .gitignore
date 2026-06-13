@@ -1,0 +1,6 @@
+# Ignorar a máquina virtual (MUITO pesado e varia de PC para PC)
+venv/
+
+# Ignorar arquivos compilados do Python
+__pycache__/
+*.pyc
