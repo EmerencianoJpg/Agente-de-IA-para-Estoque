@@ -53,21 +53,6 @@ O usuário pode realizar perguntas como:
 
 ---
 
-### Seleção Automática de Ferramentas
-
-O LLM atua como um roteador inteligente e escolhe automaticamente qual função deve ser executada para responder a pergunta do usuário.
-
-Ferramentas disponíveis:
-
-* Baixo Estoque
-* Valor Total
-* Produto Mais Caro
-* Produto Mais Barato
-* Produto com Maior Quantidade
-* Listagem Completa de Produtos
-
----
-
 ## Como rodar o projeto em localhost
 
 ### Pré-requisitos
