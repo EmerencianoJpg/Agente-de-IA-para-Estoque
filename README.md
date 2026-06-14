@@ -29,10 +29,6 @@ O projeto foi desenvolvido com foco em aprendizado de conceitos de:
 
 ## Tecnologias Utilizadas
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
 * Python
 * Ollama
 * Llama 3.2
@@ -79,29 +75,6 @@ Os dados são carregados diretamente de um arquivo Excel contendo:
 * Nome do Produto
 * Quantidade
 * Preço Unitário
-
----
-
-### Arquitetura Modular
-
-O projeto foi organizado em múltiplos arquivos para facilitar manutenção e expansão:
-
-* main.py
-* agente.py
-* ferramentas.py
-* prompts.py
-* estoque.xlsx
-
----
-
-## Fluxo do Agente
-
-1. O usuário faz uma pergunta.
-2. O LLM analisa a intenção da pergunta.
-3. O LLM escolhe a ferramenta correta.
-4. A ferramenta consulta os dados do estoque.
-5. O resultado é retornado ao modelo.
-6. O modelo gera uma resposta amigável ao usuário.
 
 ---
 
@@ -158,19 +131,6 @@ Produtos com estoque baixo:
 - Webcam (3 unidades)
 - Microfone (2 unidades)
 ```
-
----
-
-## Aprendizados do Projeto
-
-Durante o desenvolvimento foram explorados conceitos importantes de agentes baseados em LLMs:
-
-* Prompt Engineering
-* Tool Calling
-* Roteamento de Ferramentas
-* Integração entre IA e código Python
-* Tratamento de respostas de modelos locais
-* Estruturação modular de projetos
 
 ---
 
