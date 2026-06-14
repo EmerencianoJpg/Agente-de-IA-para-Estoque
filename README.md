@@ -68,16 +68,6 @@ Ferramentas disponíveis:
 
 ---
 
-### Leitura de Planilha
-
-Os dados são carregados diretamente de um arquivo Excel contendo:
-
-* Nome do Produto
-* Quantidade
-* Preço Unitário
-
----
-
 ## Como rodar o projeto em localhost
 
 ### Pré-requisitos
